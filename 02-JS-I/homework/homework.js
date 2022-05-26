@@ -31,20 +31,15 @@ function devolverString(str) {
   
 }
 
-function suma(x, y) {
-  // "x" e "y" son números
-  // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:
-  
-}
+function suma(x, y) { var sumando = x + y; return sumando; }
 
-function resta(x, y) {
+function resta(x, y) { var resta = x - y; return resta;
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
 }
 
-function multiplica(x, y) {
+function multiplica(x, y) { var multiplo = x * y; return multiplo;
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
